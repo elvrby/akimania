@@ -31,3 +31,7 @@ body {
     text-wrap: balance;
   }
 }
+
+.sidebar-transition {
+  transition: width 0.3s ease;
+}
